@@ -1,5 +1,5 @@
 body{
-	background-color: #081E6F;
+	/*background-color: #081E6F;*/
   color: white;
 }
 .btn {
@@ -44,10 +44,11 @@ body{
 }
 
 #contenedor{
-	width: 200px;
+	/*width: 200px;
 	height: 220px;
-	margin: auto;
-	padding: 15%;
+  margin: auto;
+  padding: 15%;
+  */
 }
 
 .memactiva{
